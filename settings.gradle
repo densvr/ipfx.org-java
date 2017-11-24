@@ -1,1 +1,1 @@
-include ':app', ':ipfx.org-java-lib'
+include ':ipfx.org-java-lib'
